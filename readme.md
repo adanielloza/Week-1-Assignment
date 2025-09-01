@@ -25,8 +25,8 @@ If all tests pass → prints "All tests passed."
 
 <img width="226" height="112" alt="image" src="https://github.com/user-attachments/assets/5b4a6da8-423b-4804-8879-90b912fe9483" />
 
-
 If any test fails → raises ListDivideException
+
 Error: 3
 <img width="443" height="95" alt="image" src="https://github.com/user-attachments/assets/1fa18993-165a-4ba9-915f-7b820265b223" />
 Result
