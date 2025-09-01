@@ -65,26 +65,26 @@ Screenshot of Successful Run:
 
     └── part2_output.png
 
-(Optional) Create and activate a virtual environment
+2. (Optional) Create and activate a virtual environment
 
-Mac/Linux:
+Mac/Linux
 
 python3 -m venv venv
 source venv/bin/activate
 
 
-Windows:
+Windows
 
 python -m venv venv
 venv\Scripts\activate
 
 
-Run Part 1
+3. Run Part 1
 
 python assignment1_part1.py
 
 
-Run Part 2
+4. Run Part 2
 
 python assignment1_part2.py
 
@@ -93,4 +93,7 @@ Week-1-Assignment/
 │── assignment1_part1.py      # Part 1: Functions & Exceptions
 │── assignment1_part2.py      # Part 2: Simple Class
 │── README.md                 # Project documentation
+└── images/                   # Screenshots
+    ├── part1_output.png
+    └── part2_output.png
 
