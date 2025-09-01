@@ -87,13 +87,3 @@ python assignment1_part1.py
 4. Run Part 2
 
 python assignment1_part2.py
-
-📁 Repository Structure
-Week-1-Assignment/
-│── assignment1_part1.py      # Part 1: Functions & Exceptions
-│── assignment1_part2.py      # Part 2: Simple Class
-│── README.md                 # Project documentation
-└── images/                   # Screenshots
-    ├── part1_output.png
-    └── part2_output.png
-
