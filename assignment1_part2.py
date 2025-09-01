@@ -1,12 +1,24 @@
-
 class Book:
+    # Attributes initialized to blank strings by default
+    author = ""
+    title = ""
+
     def __init__(self, author, title):
-        pass
-    
+        """Initialize a new Book with author and title."""
+        self.author = author
+        self.title = title
+
     def display(self):
-        pass
+        """Print book details in the format: title, written by author."""
+        print(f"{self.title}, written by {self.author}")
 
 
 if __name__ == "__main__":
-    a = Book("Thorpe", "Beat the Dealer")
-    print("This is a assignment 1 part 2")
+    # Create two book objects
+    book1 = Book("J. K. Rowling", "Harry Potter and the Goblet of Fire")
+    book2 = Book("Walter Scott", "Ivanhoe: A Romance")
+
+    # Display their details
+    book1.display()
+    book2.display()
+

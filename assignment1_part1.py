@@ -1,7 +1,3 @@
-"""
-IS211 Assignment 1 — Part 1
-Functions and Exceptions
-"""
 
 # Custom exception (exactly 2 lines)
 class ListDivideException(Exception): 
