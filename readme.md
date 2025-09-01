@@ -36,3 +36,22 @@ Example Output (Failure):
 Result Section:
 
 <img width="370" height="31" alt="Failure result" src="https://github.com/user-attachments/assets/0ac576d7-a835-4678-b38f-96d0dca74917" />
+
+
+## 📌 Part 2 – Simple Class
+
+- **File:** `assignment1_part2.py`
+- Implements a `Book` class with attributes `author` and `title`.
+- Defines a method:
+  ```python
+  def display(self):
+      print(f"{self.title}, written by {self.author}")
+✅ Example Output
+Harry Potter and the Goblet of Fire, written by J. K. Rowling
+Ivanhoe: A Romance, written by Walter Scott
+
+
+Screenshot of Successful Run:
+
+<img width="448" height="61" alt="image" src="https://github.com/user-attachments/assets/e59e5bb7-60af-47e5-aa3b-77f45531d0e1" />
+
