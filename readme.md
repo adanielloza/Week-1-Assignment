@@ -61,9 +61,6 @@ Screenshot of Successful Run:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/adanielloza/Week-1-Assignment.git
-   cd Week-1-Assignment
-
-    └── part2_output.png
 
 2. (Optional) Create and activate a virtual environment
 
