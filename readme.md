@@ -55,37 +55,42 @@ Screenshot of Successful Run:
 
 <img width="448" height="61" alt="image" src="https://github.com/user-attachments/assets/e59e5bb7-60af-47e5-aa3b-77f45531d0e1" />
 
-▶️ How to Run the Code
 
-Clone the repository:
+## ▶️ How to Run the Code
 
-git clone https://github.com/adanielloza/Week-1-Assignment.git 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/adanielloza/Week-1-Assignment.git
+   cd Week-1-Assignment
 
-cd Week-1-Assignment
+    └── part2_output.png
 
+(Optional) Create and activate a virtual environment
 
-(Optional) Create and activate a virtual environment:
+Mac/Linux:
 
 python3 -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
+source venv/bin/activate
 
 
-Run Part 1:
+Windows:
+
+python -m venv venv
+venv\Scripts\activate
+
+
+Run Part 1
 
 python assignment1_part1.py
 
 
-Run Part 2:
+Run Part 2
 
 python assignment1_part2.py
 
+📁 Repository Structure
 Week-1-Assignment/
 │── assignment1_part1.py      # Part 1: Functions & Exceptions
 │── assignment1_part2.py      # Part 2: Simple Class
 │── README.md                 # Project documentation
-└── images/                   # Screenshots
-    ├── part1_output.png
-    └── part2_output.png
-
 
